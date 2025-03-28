@@ -9,8 +9,8 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 ---
 
 ## 🖥️ My Programming Languages  
-- **Fluent:** Lua/Luau, PHP, Node.js, Go, C, C#, Python, SQL, HTML/CSS/JS  
-- **Currently Learning:** Rust
+- **Fluent:** Lua/Luau, PHP, Node.js, C, C#, Python, SQL, HTML/CSS/JS  
+- **Currently Learning:** Go, Rust
 
 ### 🔧 Tools I work with:
 - Docker, containerization, virtualisation
