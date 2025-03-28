@@ -16,11 +16,13 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 - Docker, containerization, virtualisation
 - Linux and Windows operating systems
 - MySQL/MariaDB/SQLite3/ScyllaDB/Cassandra databases
-- Software Defined Networking
+- Software Defined Networking like Omada
+- Routers like OPNSense, pfSense and VyOS
 - Visual Studio (Code)
 - Services like SSH
 - Cybersecurity Tools like SQLMap
 - Roblox Studio
+
 ...
 
 ---
