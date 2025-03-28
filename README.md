@@ -14,13 +14,16 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 
 ### 🔧 Tools I work with:
 - Docker, containerization, virtualisation
-- Linux and Windows operating systems
-- MySQL/MariaDB/SQLite3/ScyllaDB/Cassandra databases
+- Linux (Ubuntu, Debian, OpenBSD, FreeBSD, Kali) and Windows operating systems
+- MySQL/MariaDB/SQLite/ScyllaDB/Cassandra databases
 - Software Defined Networking like Omada
-- Routers like OPNSense, pfSense and VyOS
+- Routers like OPNSense/pfSense and VyOS
 - Visual Studio (Code)
 - Services like SSH
 - Cybersecurity Tools like SQLMap
+- NPM
+- Git
+- NAS Systems
 - Roblox Studio
 
 ...
