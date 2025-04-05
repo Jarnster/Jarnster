@@ -27,7 +27,6 @@ Written in Luau
 Modular face recognition system with multi-location support. Uses a powerful backend for analysis while lightweight frontend devices (like Raspberry Pi) handle face capture. Scalable, efficient, and open-source
 Written in PHP and Python
 ![image](https://github.com/user-attachments/assets/ec6f388f-46f1-4528-8863-bf2a5abc5d88)
-![image](https://github.com/user-attachments/assets/07ecf1b5-a3df-4062-8f2b-080e9241a342)
 
 ---
 
