@@ -11,17 +11,15 @@ Some things I've made:
 ### [VyConnect](https://github.com/Jarnster/VyConnect):
 Easily manage and configure multiple **VyOS routers** without needing to configure them individually via CLI.
 Written in PHP
-
 ![image](https://github.com/user-attachments/assets/942ef6da-43bb-4659-946f-0d6a5a020666)
 
 ### [RBXConnectionManager](https://github.com/Ultray-Studios/RBXConnectionManager):
 Lightweight module for managing RBXScriptConnection objects in Roblox. It allows for easy connection handling, automatic cleanup, and optional event monitoring.
 Written in Luau
 
-### [FaceLink](htttps://github.com/Jarnster/FaceLink):
+### [FaceLink](https://github.com/Jarnster/FaceLink):
 Modular face recognition system with multi-location support. Uses a powerful backend for analysis while lightweight frontend devices (like Raspberry Pi) handle face capture. Scalable, efficient, and open-source
 Written in PHP and Python
-
 ![image](https://github.com/user-attachments/assets/ec6f388f-46f1-4528-8863-bf2a5abc5d88)
 ![image](https://github.com/user-attachments/assets/07ecf1b5-a3df-4062-8f2b-080e9241a342)
 
