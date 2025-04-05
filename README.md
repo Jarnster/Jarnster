@@ -6,6 +6,20 @@ Occasionally, I contribute to open-source projects.
 
 Feel free to open Issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
 
+Some things I've made:
+
+### [VyConnect](https://github.com/Jarnster/VyConnect):
+Easily manage and configure multiple **VyOS routers** without needing to configure them individually via CLI.
+
+![image](https://github.com/user-attachments/assets/942ef6da-43bb-4659-946f-0d6a5a020666)
+
+### [RBXConnectionManager](Ultray-Studios/RBXConnectionManager):
+Lightweight module for managing RBXScriptConnection objects in Roblox. It allows for easy connection handling, automatic cleanup, and optional event monitoring.
+
+For more, look at my Pinned repositories!
+
+![](https://github-readme-stats.vercel.app/api?username=jarnster&count_private=true&show_icons=true&theme=nord&hide_border=true)
+
 ---
 
 ## 🖥️ My Programming Languages  
