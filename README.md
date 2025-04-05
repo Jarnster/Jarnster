@@ -8,7 +8,7 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 
 ---
 
-# Some of My Personal Projects:
+# 📦 Some of My Personal Projects:
 
 ### [VyConnect](https://github.com/Jarnster/VyConnect):
 Easily manage and configure multiple **[VyOS](https://vyos.io/) routers** without having to configure each one individually via CLI - all without compromising on security. VyConnect communicates with the routers using the official VyOS REST API, removing the need for full SSH access and avoiding the risks associated with storing plain-text credentials or using insecure third-party scripts.
@@ -30,9 +30,7 @@ Written in PHP and Python
 
 ---
 
-For more, look at my Pinned repositories here below!
-
-![](https://github-readme-stats.vercel.app/api?username=jarnster&count_private=true&show_icons=true&theme=nord&hide_border=true)
+For more, please have a look at my Pinned repositories here below!
 
 ---
 
