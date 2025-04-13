@@ -8,32 +8,6 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 
 ---
 
-# 📦 Some of My Personal Projects:
-
-### [VyConnect](https://github.com/Jarnster/VyConnect):
-Easily manage and configure multiple **[VyOS](https://vyos.io/) routers** without having to configure each one individually via CLI - all without compromising on security. VyConnect communicates with the routers using the official VyOS REST API, removing the need for full SSH access and avoiding the risks associated with storing plain-text credentials or using insecure third-party scripts.
-Written in PHP
-![image](https://github.com/user-attachments/assets/942ef6da-43bb-4659-946f-0d6a5a020666)
-
----
-
-### [RBXConnectionManager](https://github.com/Ultray-Studios/RBXConnectionManager):
-Lightweight module for managing RBXScriptConnection objects in Roblox. It allows for easy connection handling, automatic cleanup, and optional event monitoring.
-Written in Luau
-
----
-
-### [FaceLink](https://github.com/Jarnster/FaceLink):
-Modular face recognition system with multi-location support. Uses a powerful backend for analysis while lightweight frontend devices (like Raspberry Pi) handle face capture. Scalable, efficient, and open-source
-Written in PHP and Python
-![image](https://github.com/user-attachments/assets/ec6f388f-46f1-4528-8863-bf2a5abc5d88)
-
----
-
-For more, please have a look at my Pinned repositories here below!
-
----
-
 ## 🖥️ My Programming Languages  
 - **Fluent:** Lua/Luau, PHP, Node.js, C, C#, Python, SQL, HTML/CSS/JS  
 - **Currently Learning:** Go, Rust
