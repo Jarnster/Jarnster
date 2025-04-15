@@ -9,10 +9,12 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 ---
 
 ## 🖥️ My Programming Languages  
-- **Fluent:** Lua/Luau, PHP, Node.js, C, C#, Python, SQL, HTML/CSS/JS  
+- **Fluent:** Lua/Luau, PHP, Node.js, C, C#, Python, SQL, TypeScript, HTML/CSS/JS
 - **Currently Learning:** Go, Rust
 
+<!--
 ### 🔧 Tools I work with:
+- React, Next.js
 - Docker, containerization, virtualisation
 - Linux (Ubuntu, Debian, OpenBSD, FreeBSD, Kali) and Windows operating systems
 - MySQL/MariaDB/SQLite/ScyllaDB/Cassandra databases
@@ -28,6 +30,7 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 - etc
 
 ...
+-->
 
 ---
 
