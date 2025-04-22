@@ -9,12 +9,11 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 ---
 
 ## 🖥️ My Programming Languages  
-- **Fluent:** Lua/Luau, PHP, Node.js, C, C#, Python, SQL, TypeScript, HTML/CSS/JS
+- **Fluent:** Lua/Luau, PHP, Node.js, TypeScript, C, C#, Python, SQL, HTML/CSS/JS
 - **Currently Learning:** Go, Rust
 
-<!--
 ### 🔧 Tools I work with:
-- React, Next.js
+- Popular Libraries like React, Next.js
 - Docker, containerization, virtualisation
 - Linux (Ubuntu, Debian, OpenBSD, FreeBSD, Kali) and Windows operating systems
 - MySQL/MariaDB/SQLite/ScyllaDB/Cassandra databases
@@ -27,15 +26,13 @@ Feel free to open Issues, create PRs, or collaborate in any way on my repositori
 - Git
 - NAS Systems
 - Roblox Studio
-- etc
+- ...
 
-...
--->
 
 ---
 
 ## 📜 My Development Journey  
-I began programming at around 11 years old, starting with PHP and Lua. Over time, my curiosity led me to explore more languages, expanding my skill set with Node.js, Python, and C#.
+I began programming at around 11 years old (2019), starting with PHP and Lua. Over time, my curiosity led me to explore more languages, expanding my skill set with Node.js, Python, and C#.
 
 As I got older, I delved deeper into game development, creating my own projects and contributing to others. Along the way, I developed a passion for cybersecurity and building robust systems and APIs, which remain my primary focus today.
 
