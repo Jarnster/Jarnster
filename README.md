@@ -1,31 +1,32 @@
 ## 👋  Who I am 
 
-I'm a 17-year-old passionate student developer, with a primary focus on APIs, innovative systems, services, cybersecurity, and game development.
+I'm a 17-year-old passionate student developer, with a primary focus on APIs, innovative systems, services, cybersecurity and game development.
 
 Occasionally, I contribute to open-source projects.
 
-Feel free to open Issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
+Feel free to open issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
 
 ---
 
 ## 🖥️ My Programming Languages  
 - **Fluent:** Lua/Luau, PHP, Node.js, TypeScript, C, C#, Python, SQL, HTML/CSS/JS
-- **Currently Learning:** Go, Rust
+- **Currently Learning:** Go, Rust, C++
 
 ### 🔧 Tools I work with:
-- Popular Libraries like React, Next.js
-- Docker, containerization, virtualisation
+- Tools like GraphQL, Prometheus, Grafana
+- API Testing like Podman
+- Frontend libraries like React, Next.js
+- Containerization and virtualization like Docker, Proxmox, VMWare ESXi and Hyper-V
 - Linux (Ubuntu, Debian, OpenBSD, FreeBSD, Kali) and Windows operating systems
 - MySQL/MariaDB/SQLite/ScyllaDB/Cassandra databases
-- Software Defined Networking like Omada
-- Routers like OPNSense/pfSense and VyOS
-- Visual Studio (Code)
+- Software Defined Networking and Network Attached Storaged systems like Omada and Synology
+- Router OS like OPNSense/pfSense and VyOS
+- IDEs like Visual Studio
 - Services like SSH
-- Cybersecurity Tools like SQLMap
-- NPM
-- Git
-- NAS Systems
-- Roblox Studio
+- Cybersecurity Tools like SQLMap and Metasploit
+- Package managers like NPM, Cargo and Wally
+- Version management tools like Git
+- Game Engines like Roblox Studio, Unity and Unreal Engine
 - ...
 
 
@@ -37,6 +38,11 @@ I began programming at around 11 years old (2019), starting with PHP and Lua. Ov
 As I got older, I delved deeper into game development, creating my own projects and contributing to others. Along the way, I developed a passion for cybersecurity and building robust systems and APIs, which remain my primary focus today.
 
 I'm currently studying computer science in high school and constantly working on improving my skills.
+
+---
+
+## 📧 Contact
+Mail me at jarneverlinden4@gmail.com
 
 ---
 
