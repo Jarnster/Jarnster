@@ -1,25 +1,19 @@
 ## 👋  Who I am 
 
-I'm a passionate CS Student based in Belgium. I contribute to open-source projects.
+I'm a passionate CS Student based in Belgium. I contribute to, and maintain open-source projects.
 
 Feel free to open issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
 
-Together with @Mydilversen I Co-Founded VyProjects: a Centralized SDN controller to configure, deploy and monitor multi-site VyOS routers via a modern web interface used by MSPs and small ISPs.
+Together with @Mydilversen I Co-Founded VyProjects: a Centralized SDN controller to configure, deploy and monitor multi-site VyOS routers via a modern web interface.
 
-I'm working as an Assistant Teacher in Dynamic Websystems High School 3rd-grade CS and Freelance IT Consultant for SME's and universities.
-
----
-
-Contact? Mail me at `jarneverlinden4@gmail.com`
+I'm working as an Assistant Teacher in Dynamic Websystems High School 3rd-grade CS and Freelance IT Consultant.
 
 ---
 
-<!--
-## Programming Languages I use frequently
+
+## Programming Languages & Tools
 - **Fluent:** PHP, Luau, Node.js, TypeScript, C, C#, Python, SQL, HTML/CSS/JS
 - **Currently Learning:** Go, Rust
-
-### Some Tools I often use
 - Containerization and virtualization like Docker, Proxmox, VMWare ESXi and Hyper-V
 - Linux (Ubuntu, Debian, BSD, Kali) and Windows operating systems
 - Router Operating Systems like VyOS and OPNSense/pfSense
@@ -38,7 +32,7 @@ Contact? Mail me at `jarneverlinden4@gmail.com`
 
 ---
 
--->
+
 
 <!--
 **Jarnster/Jarnster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
