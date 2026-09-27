@@ -1,11 +1,12 @@
 ## 👋  Who I am 
 
-I'm a passionate CS Student based in Belgium. I contribute to, and maintain open-source projects.
+I'm a passionate student based in Belgium. I contribute to, and maintain open-source projects.
 
 Feel free to open issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
 
-Together with @Mydilversen I Co-Founded VyProjects: a Centralized SDN controller to configure, deploy and monitor multi-site VyOS routers via a modern web interface.
+I founded (VyProjects)[https://github.com/Community-VyProjects/] and VyManager: a multi-tenant network management platform to configure, deploy, and monitor VyOS instances across multiple sites.
 
+<!--
 I'm working as an Assistant Teacher in Dynamic Websystems High School 3rd-grade CS and Freelance IT Consultant.
 
 ---
@@ -32,7 +33,7 @@ I'm working as an Assistant Teacher in Dynamic Websystems High School 3rd-grade 
 
 ---
 
-
+-->
 
 <!--
 **Jarnster/Jarnster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
