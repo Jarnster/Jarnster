@@ -4,7 +4,7 @@ I'm a passionate student based in Belgium. I contribute to, and maintain open-so
 
 Feel free to open issues, create PRs, or collaborate in any way on my repositories. I'm always eager to improve and collaborate with others!
 
-I founded (VyProjects)[https://github.com/Community-VyProjects/] and VyManager: a multi-tenant network management platform to configure, deploy, and monitor VyOS instances across multiple sites.
+I founded [VyProjects](https://github.com/Community-VyProjects/) & [VyManager](https://github.com/Community-VyProjects/VyManager): a multi-tenant network management platform to configure, deploy, and monitor VyOS instances across multiple sites.
 
 <!--
 I'm working as an Assistant Teacher in Dynamic Websystems High School 3rd-grade CS and Freelance IT Consultant.
